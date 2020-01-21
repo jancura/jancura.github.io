@@ -2,8 +2,8 @@
   "name": "Pavol Jancura",
   "short_name": "Pavol Jancura",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "/images/icon_huca831504f324b9c495a6af677b0eb85e_2561_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
